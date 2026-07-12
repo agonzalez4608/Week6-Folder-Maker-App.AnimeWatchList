@@ -1,0 +1,42 @@
+Week 6 App Dev Pipeline Progress
+
+Name / Team: Alexis Gonzalez (Individual Project)
+
+1. Genre
+My genre is: Anime
+I chose this genre because: I enjoy watching anime, and I wanted to create something simple that could be useful for keeping track of shows I watch.
+
+2. Story or Backstory
+My app idea came from wanting an easy way to organize anime that I plan to watch, am currently watching, or have already finished.
+
+3. User Need
+The user needs a simple app to keep track of anime titles, watch status, ratings, and progress so they wont forget where they left off.
+
+4. Product Definition
+I am building an Anime Watchlist app that lets users save anime titles, update their watch status, rate shows, and organize their watchlist.
+
+5. Variables
+The main information containers are anime title, genre, watch status, rating, episodes watched, and favorite status.
+
+6. Functions / Procedures
+The main actions are adding an anime, updating the watch status, displaying anime information, saving a rating, and clearing the input fields.
+
+7. Hat Strategy
+This week I worked in these hats:
+- Story hat: Created the backstory and user need for the app.
+- Logical hat: Planned the variables and functions the app will use.
+- Visual hat: I planned how the information and menu options will appear inside the console window.
+- Programmer hat: I worked on VB.NET folder maker app that creates the project folders and README file.
+- Tester hat: I tested  the Folder Maker App created the DOCs folder, Assets folder, and README.txt file correctly.
+
+8. Folder Maker App Progress
+What works: The VB.NET code works
+What I am still fixing: Haven't started working on the code for my app
+What I tested: Nothing.
+
+9. Git Repository Link
+Paste link here:https://github.com/agonzalez4608/Week6-Folder-Maker-App.AnimeWatchList
+
+10. Study Notes
+One thing I learned about functions, procedures, data types, loops, JSON, SQL, or Git: I learned that variables store information the app needs, and the functions/procedures are the actions the app performs.
+
