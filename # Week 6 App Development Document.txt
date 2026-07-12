@@ -1,0 +1,101 @@
+# Week 6 App Development Document
+
+## Project / :Team Myself only
+
+Project name: Anime Watch List App
+
+Student name(s): Alexis Gonzalez
+
+Team strategy:
+
+I'm responsible for everything on my project.
+
+## 0. Genre
+
+Choose one genre and name it clearly.
+
+Genre: Anime
+
+Explain why this genre fits your app idea:
+
+## 1. Backstory
+
+I choose Anime genre because of the popular it has gotten over the past years and constantly releasing new anime's and new seasons for old shows. It can be difficult to remember what anime you still need to finish and even begin, most anime fans keep notes and list of where they left off, but it still can be confusing over time.
+
+
+## 2. Story / User Need
+
+The user needs a simple way of being to organize the anime's they want to watch, the ones they are currently watching, and the anime's they've already finished.
+
+
+## 3. Product Definition
+
+I am building an Anime Watchlist app that helps users organize the anime they are interested in watching.
+
+
+
+## 4. Variables
+
+List containers of information your app may need.
+
+| Variable Name | Data Type | What It Stores | Example Value |
+
+| AnimeTitle | String | Name of the anime | One Piece |
+
+| Genre | String | Anime Genre | Adventure |
+
+| WatchStatus | String | Plan to watch, watching, or completed | Watching |
+
+| Ratings | Integer | Rating out of 10 | 9 |
+
+| EpisodesWatched | Integer | Number of episodes watched | 22 |
+
+| IsFavorite | Boolean | Anime marked as a favorite | true |
+
+## 5. Functions and Procedures
+
+List actions the app needs to perform.
+
+| Function / Procedure | Purpose | Input | Output or Result |
+
+| AddAnime | Adds a new anime to list watchlist | Anime title, genre | Anime to add list |
+
+| UpdateWatchStatus | Changes watch status | Anime title, new status | Watch status updated
+
+| RateAnime | Saves user's rating | Anime title, ratting | Rating is stored |
+
+| DisplayAnime | Shows selected anime's information | Anime title | Anime details appear on the screen  |
+
+
+## 6. Questions and Answers
+
+Identify possible problems before coding.
+
+Question: What if the user forgets to enter an anime title?
+
+Answer or plan: The app will show a message asking the user to enter title before saving.
+
+Question: What if the user chooses the wrong status of the anime they are watching?
+
+Answer or plan: The user can update the status later, like changing it from "watching" to "completed."
+
+## 7. Execution Strategy
+
+What will I build first? I will build the main screen with text boxes, buttons and labels. I will add places for the anime title, genre, watch status, rating, and episodes watched.
+
+How will I test it? I will test the app by entering different anime titles and checking if the information displayed is correct. I will also test the clear button to make sure it resets the form.
+
+## 8. Git Repository
+
+Repository link:https://github.com/agonzalez4608/Week6-Folder-Maker-App.AnimeWatchList
+
+What files should the instructor grade?
+●	Readme.md
+●	VB.NET
+●	App Dev Doc
+●	Screenshots
+●	Discord Proof
+
+
+What files should the instructor ignore?
+●	VB.NET
